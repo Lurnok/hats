@@ -1,0 +1,10 @@
+{
+    "textures": {
+      "layer0": "item/netherite_sword"
+    },
+    "parent": "item/handheld_rod",
+    "overrides": [
+      {"predicate": {"custom_model_data": 1},"model": "item/custom/mastersword"},
+      {"predicate": {"custom_model_data": 2},"model": "item/custom/bustersword"}
+    ]
+  }
